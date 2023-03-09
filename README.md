@@ -4,3 +4,4 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-5a6a33b5/)
 
 ![Pedro Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=PHpedrohenrique&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHpedrohenrique)](https://github.com/anuraghazra/github-readme-stats)
